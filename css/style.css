@@ -767,7 +767,7 @@ h6{
   }
   #activities-list {
     flex-wrap: wrap!important;
-    padding-right: 30px;
+    gap: 20px;
   }
   #activities-list .card {
     min-width: 10px;
