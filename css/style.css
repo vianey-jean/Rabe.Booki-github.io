@@ -731,6 +731,7 @@ h6{
     height: auto;
     row-gap: 25px;
     margin-bottom: 30px;
+    
   }
   #activities-list .card {
     width: 100%;
@@ -768,7 +769,9 @@ h6{
   #activities-list {
     flex-wrap: wrap!important;
     gap: 20px;
+
   }
+  
   #activities-list .card {
     min-width: 10px;
   }
